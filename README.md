@@ -41,9 +41,9 @@ Images and annotations from dataset will be loaded by the load_custom() function
 
 Visualization of mask on the annotated image is done in [car-damage-detection.ipynb.ipynb](car-damage-detection.ipynb.ipynb)
 
-![Visualization of Input 1](media/visualization1.PNG)   
+![Visualization of Input 1](media/visualization1.png)   
 
-![Visualization of Input 2](media/visualization2.PNG)   
+![Visualization of Input 2](media/visualization2.png)   
 
 
 ## 4. Training model
@@ -77,7 +77,7 @@ The training schedule, learning rate, and other parameters should be set in `cus
 
 ## 5. Model Validation
 The model weights is inspected in [car-damage-detection.ipynb.ipynb](car-damage-detection.ipynb.ipynb).Link last training checkpoint for model for validation. This step performs a sanity check if your weights and biases are properly distributed.
-![Validation](media/validation1.PNG)   
+![Validation](media/validation1.png)   
 
 ## 6. Prediction
 Inspect model by performing prediction on test and validation to test the accuracy.
