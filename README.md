@@ -49,6 +49,7 @@ Visualization of mask on the annotated image is done in [car-damage-detection.ip
 ## 4. Training model
 Training and evaluation code is in `custom.py`.
 The mask_rcnn_coco.h5, a pre-trained weights on coco dataset is used to train this model.
+
 ![Train function](media/train_function.PNG)   
 
 You can import this
