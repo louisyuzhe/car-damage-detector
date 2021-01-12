@@ -39,7 +39,7 @@ This custom Mask R-CNN is built on top of [Matterport Mask R-CNN Github reposito
 Images and annotations from dataset will be loaded by the load_custom() function in CustomDataset Class.
 ![Load Dataset](media/load_function.PNG)
 
-Visualization of mask on the annotated image is done in [car-damage-detection.ipynb.ipynb](car-damage-detection.ipynb.ipynb)
+Visualization of mask on the annotated image is done in [car-damage-detection.ipynb](car-damage-detection.ipynb)
 
 ![Visualization of Input 1](media/visualization1.png)   
 
